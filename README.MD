@@ -53,13 +53,25 @@ cd server && npm install
 
 # Configure environment variables
 Create .env files with:
-- MongoDB URI
-- Stripe API keys [7]
-- JWT secret
+JWT_SECRET = 
+ADMIN_EMAIL = "admin@example.com"
+ADMIN_PASSWORD = "felixproject"
+
+MONGODB_URI 
+
+CLOUDINARY_API_KEY 
+CLOUDINARY_SECRET_KEY = 
+CLOUDINARY_NAME = 
+
+STRIPE_SECRET_KEY = 
 
 # Start development servers
-npm run dev (backend)
-npm start (frontend)
+cd frontend
+- npm run dev
+cd backend
+- npm run server
+cd admin
+- npm run dev
 ```
 
 ---
@@ -82,13 +94,12 @@ Use Stripe test credentials:
 
 ## Technology Stack  
 **Frontend**:  
-- React + Redux (state management)
-- Bootstrap/Sass (styling)   
-- Axios (API calls)   
+- Vite
+- Tailwind   
 
 **Backend**:  
-- Express.js (REST API)  
-- Mongoose (MongoDB ORM) 
+- Express.js
+- MongoDB Atlas
 - JWT (authentication)   
 
 **DevOps**:  
@@ -98,9 +109,8 @@ Use Stripe test credentials:
 ---
 
 ## Future Enhancements  
-- Razorpay payment gateway integration   
 - Product review/rating system  
-- Advanced analytics dashboard  
+- Advanced analytics dashboard
 
 ---
 
