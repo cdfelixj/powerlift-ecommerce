@@ -1,8 +1,14 @@
 
-## PowerLift  
+# PowerLift  
 **E-Commerce Platform with MERN Stack & Stripe Integration**  
 
-**Live Demo**: [Deployed on Vercel](https://your-vercel-link.com)
+**Live Demo**:
+- Page: https://powerlift-ecommerce-frontend.onrender.com/
+- Admin: https://powerlift-ecommerce-1.onrender.com/
+
+Admin Email: admin@example.com
+Pass: secret :))
+
 
 ---
 
@@ -55,7 +61,7 @@ cd server && npm install
 Create .env files with:
 JWT_SECRET = 
 ADMIN_EMAIL = "admin@example.com"
-ADMIN_PASSWORD = "felixproject"
+ADMIN_PASSWORD = secret
 
 MONGODB_URI 
 
