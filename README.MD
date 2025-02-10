@@ -110,4 +110,7 @@ Using Render to host frontend and backend
 
 ---
 
+ALL PHOTOS RIGHTS AND RESERVED TO SBD Apparel Hong Kong
+Just using it as placeholders!
+
 
