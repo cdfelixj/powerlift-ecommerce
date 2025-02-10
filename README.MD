@@ -38,15 +38,17 @@ Key objectives:
 - Multi-step checkout with Stripe integration
  ![alt text](Checkout.png)
 - Payment with Stripe
- ![alt text](image.png)
+ ![alt text](Stripe.png)
 - Order history tracking
- ![alt text](image-1.png)   
+ ![alt text](MyOrders.png)   
 
 **Admin Features**:  
-- Product upload/management dashboard   
-- Order fulfillment interface   
+- Product upload/management dashboard
+ ![alt text](<Admin Add Panel.png>)   
+- Order fulfillment interface
+ ![alt text](Orders.png)   
 - Authentication/authorization 
-![alt text](<Admin Add Panel.png>)
+ ![alt text](<Admin Add Panel.png>)
 
 ---
 
