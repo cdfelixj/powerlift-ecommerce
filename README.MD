@@ -32,12 +32,15 @@ Key objectives:
 ## Features  
 **User-Facing**:  
 - Product search/filtering with real-time updates
-- ![alt text](Collection.png)
+ ![alt text](Collection.png)
 - Cart management (add/update/delete items)
   ![alt text](BestSellers.png)
 - Multi-step checkout with Stripe integration
-- ![alt text](Checkout.png)
-- Order history tracking   
+ ![alt text](Checkout.png)
+- Payment with Stripe
+ ![alt text](image.png)
+- Order history tracking
+ ![alt text](image-1.png)   
 
 **Admin Features**:  
 - Product upload/management dashboard   
