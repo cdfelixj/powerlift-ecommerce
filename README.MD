@@ -90,14 +90,6 @@ Use Stripe test credentials:
 
 ---
 
-## Deployment  
-1. Build React app: `npm run build`  
-2. Deploy frontend to Vercel   
-3. Host backend on cloud service (e.g., Render)  
-4. Configure production environment variables  
-
----
-
 ## Technology Stack  
 **Frontend**:  
 - Vite
@@ -108,9 +100,7 @@ Use Stripe test credentials:
 - MongoDB Atlas
 - JWT (authentication)   
 
-**DevOps**:  
-- Vercel (frontend hosting)   
-- CI/CD pipeline (automated deployments)  
+Using Render to host frontend and backend
 
 ---
 
